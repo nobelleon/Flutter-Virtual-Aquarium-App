@@ -1,8 +1,8 @@
 # Flutter-Virtual-Aquarium-App
 
-![Virtual Aquarium App](https://github.com/user-attachments/assets/a8b62035-a8f6-4229-a0a0-19a5f06f2f92)
+![Virtual Aquarium App_1](https://github.com/user-attachments/assets/c4425c61-db1b-4d12-8f81-ad2118220dcb) ![Virtual Aquarium App_2](https://github.com/user-attachments/assets/769e9b0e-f5ff-495e-b997-5a4b718eb48e)
 
-A new Flutter project.          
+A new Flutter project.            
 
 ## Getting Started
 
