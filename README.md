@@ -6,10 +6,6 @@
 ---
 ![Virtual Aquarium App_3](https://github.com/user-attachments/assets/53de62a0-adf3-47b6-b6cd-1993c0675dc1)![Virtual Aquarium App_4](https://github.com/user-attachments/assets/6ef01053-6f7d-404a-bd9d-bd7fc84a57cc)
 
----
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nobelleon) 
-
 A new Flutter project.                 
 
 ## Getting Started
