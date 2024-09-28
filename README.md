@@ -1,7 +1,5 @@
 # Flutter-Virtual-Aquarium-App
 
----
-
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nobelleon) 
 
 ![Virtual Aquarium App_1](https://github.com/user-attachments/assets/fe5f2fdf-f373-4332-b6c5-5976f323c7aa)![Virtual Aquarium App_2](https://github.com/user-attachments/assets/0d2a1262-d388-4167-a8af-540b28ac4ad1)
